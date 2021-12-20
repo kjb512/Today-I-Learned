@@ -68,7 +68,7 @@ HTML를 사용하는 흔한 웹페이지와 다르게 JSON을 쓰는 HTTP API는
     1. 모든 데이터에 링크를 추가한다.
     2. 링크를 표현하는 방법을 정의 해야한다.
 
-**따라서, 오늘날 대부분의 REST API는 Self-descriptive message와 HATEOAS를 지키기 않고 있습니다.**
+**따라서, 오늘날 대부분의 REST API는 Self-descriptive message와 HATEOAS를 지키지 않고 있습니다.**
 
 - 즉, REST API가 아니지만 REST API라고 부른다.(현재 상태)
 
